@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/jd-autobuy.iml" filepath="$PROJECT_DIR$/.idea/jd-autobuy.iml" />
+      <module fileurl="file://D:/PycharmProjects/python_oldboy/.idea/python_oldboy.iml" filepath="D:/PycharmProjects/python_oldboy/.idea/python_oldboy.iml" />
     </modules>
   </component>
 </project>
